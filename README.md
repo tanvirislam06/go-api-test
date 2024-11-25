@@ -1,6 +1,4 @@
 
-
-```markdown
 # go-api-test
 
 A simple Go-based API application containerized with Docker and deployable using Kubernetes.
@@ -145,4 +143,4 @@ This project is licensed under the [MIT License](LICENSE).
 For questions or support, please reach out to:
 - **Email**: tanvir6@gmail.com
 - **GitHub**: [tanvirislam06](https://github.com/tanvirislam06)
-```
+
