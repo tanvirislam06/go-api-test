@@ -1,4 +1,4 @@
-Here's a sample `README.md` file tailored for your **go-api-test** project:
+
 
 ```markdown
 # go-api-test
