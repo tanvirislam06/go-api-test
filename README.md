@@ -143,8 +143,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or support, please reach out to:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: tanvir6@gmail.com
+- **GitHub**: [tanvirislam06](https://github.com/tanvirislam06)
 ```
-
-Replace placeholders like `your-username` and `your-email@example.com` with your actual information. Add a `LICENSE` file if applicable.
